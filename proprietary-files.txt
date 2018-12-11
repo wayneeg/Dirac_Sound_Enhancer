@@ -1012,6 +1012,21 @@ vendor/lib64/libqti-perfd.so|96806732f4e5f8c25ba2e12a3a939fc2889c7341
 vendor/lib64/libqti-util.so|30dc90c1636fd100a8e101dfa659e0b7299ff813
 vendor/lib64/vendor.qti.hardware.perf@1.0.so|30798b76c4ef1755b74d17974dc90f39898c9eea
 
+# Perf QPerformance - from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM
+bin/perfservice|03d6368017d4c41f7fea647c669b69d6567238af
+etc/init/perfservice.rc|67144c3f1800f976cb58463c4370882d2d820947
+etc/perf/whitelistedapps.xml|a489e65df170543a2817a690fbae36c34e29613b
+-framework/QPerformance.jar|7097b093f8c946892176835a7b80977e8fea570c
+-framework/UxPerformance.jar|0e3babfa37e2368aee16de3d6f8cdea06e081dea
+lib/libqti-iopd-client_system.so|db8ec522aed820b0ad460992717c884ac2a5a547
+lib/libqti-perfd-client_system.so|9d1ff7e85721ee30029f872a29a69e7ca4e68021
+lib/libqti-util_system.so|45ec0642b5057ea58323f4d71bab64f7c595610a
+lib/libqti_performance.so|a4fbc9aab7cd8e1deb37ebf3cf69f2354f353312
+lib64/libqti-iopd-client_system.so|ecd88972a4a6134ba00fbb8979fda0cac5f4f73a
+lib64/libqti-perfd-client_system.so|de5b61f07d7981bb208167b357f46a9ad083c9e7
+lib64/libqti-util_system.so|0e62bd1422f40154c22e858df268009bb66d4f2f
+lib64/libqti_performance.so|9c88af412e0276c578f06e1069b6c3aeae7e3f8d
+
 # Peripheral manager - from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM
 vendor/bin/pm-proxy|56e9bdaa39270aa4456c9995a8a9e4618ba616a6
 vendor/bin/pm-service|7cbca1671529a805177f11f3f72defdbbe48a61c
