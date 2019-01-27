@@ -99,8 +99,7 @@ PRODUCT_PACKAGES += \
     libaacwrapper \
     libaudio-resampler \
     libqcomvisualizer \
-    libqcomvoiceprocessing \
-    libqcompostprocbundle
+    libqcomvoiceprocessing
 
 # Audio configuration
 PRODUCT_COPY_FILES += \
