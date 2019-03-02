@@ -272,7 +272,7 @@ PRODUCT_PACKAGES += \
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-sdm
+    vendor.lineage.livedisplay@2.0-service.xiaomi
 
 # Media
 PRODUCT_COPY_FILES += \
