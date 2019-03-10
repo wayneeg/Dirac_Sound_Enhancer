@@ -30,7 +30,7 @@
             android:enabled="true"
             android:label="@string/advanced_settings" 
             android:targetActivity="DeviceSettingsActivity"
-            android:icon="@drawable/ic_mi" >
+            android:icon="@drawable/ic_launcher_advc" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <!--<category android:name="android.intent.category.LAUNCHER" />-->
