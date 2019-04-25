@@ -224,10 +224,6 @@ persist.vendor.qti.inputopts.movetouchslop=0.6
 PRODUCT_PROPERTY_OVERRIDES += \
 sys.use_fifo_ui=1
 
-# Usb
-PRODUCT_PROPERTY_OVERRIDES += \
-persist.vendor.sys.usb.config.extra=none
-
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
 wifi.interface=wlan0
